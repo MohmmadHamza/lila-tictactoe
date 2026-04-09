@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": false,
+      "skipLibCheck": true,
+      "outFile": "./build/index.js",
+      "typeRoots": [
+        "./node_modules"
+      ]
+    },
+    "files": [
+      "./node_modules/nakama-runtime/index.d.ts",
+      "./src/main.ts",
+      "./src/rpc/healthcheck.ts",
+      "./src/rpc/create_match.ts",
+      "./src/match/tictactoe.ts"
+    ]
+  }

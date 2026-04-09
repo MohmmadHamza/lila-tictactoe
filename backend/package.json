@@ -1,0 +1,14 @@
+{
+    "name": "lila-nakama-backend",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^5.9.3"
+    },
+    "dependencies": {
+        "nakama-runtime": "github:heroiclabs/nakama-common"
+    }
+}
