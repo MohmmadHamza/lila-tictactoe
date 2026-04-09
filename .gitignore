@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Docker
+*.pid
+
+# IDE
+.vscode/
+.idea/
+
+# frontend build
+frontend/dist/
+
+# backend build
+backend/dist/
