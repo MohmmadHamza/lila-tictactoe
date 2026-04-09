@@ -332,7 +332,7 @@ Mohammed Hamza Shaikh
 Backend Developer
 Ahmedabad, India
 
-GitHub: https://github.com/<your-github>
+GitHub: https://github.com/MohmmadHamza
 
 ---
 
